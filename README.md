@@ -1,4 +1,4 @@
 # Youtubmp4
 A simple, non-wonky youtube video downloader using 100% python.
 
-Simply either download the python script or exe build and run it. Input your target folder and url, as simple as that. No comfusing linux weird commands or extra needed librarys (if you download the exe version).
+Simply download the exe build of the python script, usually found on the right side of the github website in my repo. Run the exe file, input your dropoff folder and url. Let the program easily take care of the rest. No overly complex commands, librarys, or code.
